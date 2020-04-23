@@ -62,6 +62,6 @@ signIn(userNamePrompt, passwordPrompt);
     },
     {
       username: "Zoe",
-      password: "For Sale: MacBook Pro, 2015, $450.",
+      timeline: "For Sale: MacBook Pro, 2015, $450.",
     }
   ]
